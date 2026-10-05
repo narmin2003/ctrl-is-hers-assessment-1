@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+catboost_info/
+train.csv
+test.csv
+submission.csv
